@@ -1,6 +1,6 @@
 # jPokeBot
 
-![alt text](https://raw.githubusercontent.com/tassoneroberto/jpokebot/master/logo.png?token=ACYT353LV72KZPGHG76GNES46WCHI)
+![alt text](https://raw.githubusercontent.com/tassoneroberto/jpokebot/master/logo.png)
 
 ## Introduction
 :robot: Pokémon GO bot written in Java.
