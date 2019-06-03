@@ -30,7 +30,17 @@ Run ```Bot.java``` class.
 This is an old project decompiled from a JAR file (Yes, I lost original .java files!), so some classes are broken or even missed.
 Also, when this bot was created (august 2016), you just needed a Pokemon GO account to login and start botting.
 After a while people lost in interest in the Pokemon GO game.
-Consequently the developers of the API used by bots and maps stopped to maintain the project updated (more info here: https://www.reddit.com/r/pokemongodev/).
+Consequently the developers of the API used by bots and maps stopped to maintain the project updated.
 This lead to a difficulty in cracking Niantic game protection.
 At the moment doesn't exist working API to use.
 Anyway, I decided to upload the project with the hope that one day some API will be available again to use.
+
+## Useful links
+
+https://pogodev.org/
+
+https://github.com/pogodevorg/
+
+https://www.reddit.com/r/pokemongodev/
+
+https://discordapp.com/invite/dKTSHZC/
