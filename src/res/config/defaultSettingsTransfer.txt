@@ -1,0 +1,14 @@
+jPokéBot - POKEMON TRANSFER
+
+active=true
+keepMinCP=true
+keepMinIV=true
+minCP=1200
+minIV=90
+maxDuplicate=1
+keepLegendaries=true
+keepPerfectMoves=true
+keepFavorites=true
+activeSmartTransfer=false
+priority=50
+minAverage=50

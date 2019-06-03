@@ -1,0 +1,151 @@
+001|Bulbasaur|Vine Whip|Power Whip
+002|Ivysaur|Vine Whip|Solar Beam
+003|Venusaur|Vine Whip|Solar Beam
+004|Charmander|Scratch|Flamethrower
+005|Charmeleon|Scratch|Flamethrower
+006|Charizard|Wing Attack|Fire Blast
+007|Squirtle|Bubble|Aqua Tail
+008|Wartortle|Water Gun|Hydro Pump
+009|Blastoise|Water Gun|Hydro Pump
+010|Caterpie|Bug Bite|Struggle
+011|Metapod|Bug Bite|Struggle
+012|Butterfree|Bug Bite|Bug Buzz
+013|Weedle|Bug Bite|Struggle
+014|Kakuna|Bug Bite|Struggle
+015|Beedrill|Poison Jab|Sludge Bomb
+016|Pidgey|Tackle|Aerial Ace		
+017|Pidgeotto|Wing Attack|Aerial Ace
+018|Pidgeot|Wing Attack|Hurricane
+019|Rattata|Tackle|Body Slam
+020|Raticate|Bite|Hyper Beam
+021|Spearow|Peck|Drill Peck
+022|Fearow|Steel Wing|Drill Run
+023|Ekans|Poison Sting|Gunk Shot
+024|Arbok|Bite|Gunk Shot
+025|Pikachu|Thunder Shock|Thunder
+026|Raichu|Spark|Thunder
+027|Sandshrew|Mud Shot|Dig
+028|Sandslash|Mud Shot|Earthquake
+029|Nidoran?|Poison Sting|Sludge Bomb
+030|Nidorina|Poison Sting|Sludge Bomb
+031|Nidoqueen|Poison Jab|Stone Edge
+032|Nidoran?|Poison Sting|Sludge Bomb
+033|Nidorino|Poison Jab|Sludge Bomb
+034|Nidoking|Poison Jab|Earthquake
+035|Clefairy|Pound|Moonblast
+036|Clefable|Pound|Moonblast
+037|Vulpix|Ember|Flamethrower
+038|Ninetales|Ember|Fire Blast
+039|Jigglypuff|Pound|Body Slam
+040|Wigglytuff|Pound|Hyper Beam
+041|Zubat|Bite|Sludge Bomb
+042|Golbat|Wing Attack|Poison Fang
+043|Oddish|Razor Leaf|Sludge Bomb
+044|Gloom|Razor Leaf|Sludge Bomb
+045|Vileplume|Razor Leaf|Solar Beam
+046|Paras|Bug Bite|Seed Bomb
+047|Parasect|Bug Bite|Solar Beam
+048|Venonat|Bug Bite|Signal Beam
+049|Venomoth|Bug Bite|Bug Buzz
+050|Diglett|Mud Slap|Dig
+051|Dugtrio|Mud Slap|Stone Edge
+052|Meowth|Scratch|Body Slam
+053|Persian|Scratch|Play Rough
+054|Psyduck|Water Gun|Cross Chop
+055|Golduck|Water Gun|Hydro Pump
+056|Mankey|Scratch|Cross Chop
+057|Primeape|Low Kick|Cross Chop
+058|Growlithe|Bite|Flamethrower
+059|Arcanine|Fire Fang|Fire Blast
+060|Poliwag|Bubble|Body Slam
+061|Poliwhirl|Bubble|Scald
+062|Poliwrath|Bubble|Hydro Pump
+063|Abra|Zen Headbutt|Psyshock
+064|Kadabra|Psycho Cut|Shadow Ball
+065|Alakazam|Psycho Cut|Psychic
+066|Machop|Low Kick|Cross Chop
+067|Machoke|Low Kick|Cross Chop
+068|Machamp|Karate Chop|Cross Chop
+069|Bellsprout|Vine Whip|Power Whip
+070|Weepinbell|Razor Leaf|Power Whip
+071|Victreebel|Razor Leaf|Solar Beam
+072|Tentacool|Bubble|Water Pulse
+073|Tentacruel|Poison Jab|Hydro Pump
+074|Geodude|Rock Throw|Rock Slide
+075|Graveler|Mud Slap|Stone Edge
+076|Golem|Mud Slap|Stone Edge
+077|Ponyta|Ember|Fire Blast
+078|Rapidash|Ember|Fire Blast
+079|Slowpoke|Water Gun|Psychic
+080|Slowbro|Water Gun|Psychic
+081|Magnemite|Spark|Thunderbolt
+082|Magneton|Spark|Flash Cannon
+083|Farfetch'd|Cut|Leaf Blade
+084|Doduo|Peck|Drill Peck
+085|Dodrio|Feint Attack|Drill Peck
+086|Seel|Water Gun|Aqua Tail
+087|Dewgong|Frost Breath|Blizzard
+088|Grimer|Poison Jab|Sludge Bomb
+089|Muk|Poison Jab|Gunk Shot
+090|Shellder|Tackle|Water Pulse
+091|Cloyster|Frost Breath|Blizzard
+092|Gastly|Lick|Sludge Bomb
+093|Haunter|Shadow Claw|Sludge Bomb
+094|Gengar|Shadow Claw|Sludge Wave
+095|Onix|Rock Throw|Stone Edge
+096|Drowzee|Pound|Psychic
+097|Hypno|Zen Headbutt|Psychic
+098|Krabby|Bubble|Water Pulse
+099|Kingler|Metal Claw|X-Scissor
+100|Voltorb|Spark|Thunderbolt
+101|Electrode|Spark|Hyper Beam
+102|Exeggcute|Confusion|Psychic
+103|Exeggutor|Zen Headbutt|Solar Beam
+104|Cubone|Mud Slap|Bone Club
+105|Marowak|Mud Slap|Earthquake
+106|Hitmonlee|Rock Smash|Stone Edge
+107|Hitmonchan|Rock Smash|Brick Break
+108|Lickitung|Zen Headbutt|Hyper Beam
+109|Koffing|Acid|Sludge Bomb
+110|Weezing|Acid|Sludge Bomb
+111|Rhyhorn|Mud Slap|Stomp
+112|Rhydon|Mud Slap|Stone Edge
+113|Chansey|Pound|Hyper Beam
+114|Tangela|Vine Whip|Solar Beam
+115|Kangaskhan|Mud Slap|Earthquake
+116|Horsea|Water Gun|Dragon Pulse
+117|Seadra|Water Gun|Hydro Pump
+118|Goldeen|Mud Shot|Aqua Tail
+119|Seaking|Poison Jab|Megahorn
+120|Staryu|Water Gun|Power Gem
+121|Starmie|Water Gun|Hydro Pump
+122|Mr. Mime|Zen Headbutt|Psychic
+123|Scyther|Steel Wing|Bug Buzz
+124|Jynx|Frost Breath|Psyshock
+125|Electabuzz|Thunder Shock|Thunder
+126|Magmar|Ember|Fire Blast
+127|Pinsir|Rock Smash|X-Scissor
+128|Tauros|Tackle|Earthquake
+129|Magikarp|Splash|Struggle
+130|Gyarados|Bite|Hydro Pump
+131|Lapras|Frost Breath|Blizzard
+132|Ditto|Pound|Struggle
+133|Eevee|Tackle|Body Slam
+134|Vaporeon|Water Gun|Hydro Pump
+135|Jolteon|Thunder Shock|Thunder
+136|Flareon|Ember|Fire Blast
+137|Porygon|Tackle|Signal Beam
+138|Omanyte|Water Gun|Brine
+139|Omastar|Water Gun|Hydro Pump
+140|Kabuto|Scratch|Aqua Jet
+141|Kabutops|Mud Shot|Stone Edge
+142|Aerodactyl|Bite|Hyper Beam
+143|Snorlax|Zen Headbutt|Hyper Beam
+144|Articuno|Frost Breath|Blizzard
+145|Zapdos|Thunder Shock|Thunder
+146|Moltres|Ember|Fire Blast
+147|Dratini|Dragon Breath|Aqua Tail
+148|Dragonair|Dragon Breath|Dragon Pulse
+149|Dragonite|Dragon Breath|Dragon Claw
+150|Mewtwo|Psycho Cut|Hyper Beam
+151|Mew|Pound|Blizzard

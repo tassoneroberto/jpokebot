@@ -1,0 +1,5 @@
+jPokéBot - POKEMON RENAME
+
+active=true
+renameIV=true
+renamePerfectMoves=true

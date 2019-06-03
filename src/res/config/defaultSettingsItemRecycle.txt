@@ -1,0 +1,25 @@
+jPokéBot - ITEM RECYCLE SETTINGS
+
+active=true
+recycleWhenFull=true
+keepMasterball=true
+keepIncense=true
+keepTroyDisk=true
+keepLuckyEgg=true
+pokeball=0
+megaball=0
+ultraball=0
+masterball=infinity
+potion=0
+superpotion=0
+hyperpotion=0
+maxpotion=0
+revive=0
+maxrevive=0
+razzberry=0
+luckyegg=infinity
+troydisk=infinity
+incense=infinity
+defaultConfig=Balanced
+autoUpdate=true
+firstStart=true

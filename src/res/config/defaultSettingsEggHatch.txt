@@ -1,0 +1,6 @@
+jPokéBot - EGG HATCH
+
+active=true
+hatchType=all
+hatchOnlySelected=2
+hatchAllOrderedBy=descendant

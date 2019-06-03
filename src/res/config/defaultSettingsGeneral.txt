@@ -1,0 +1,7 @@
+jPokéBot - GENERAL SETTINGS
+
+width=5
+timeToCollect=3
+rescanTimeOut=5
+speed=60
+getLevelReward=true

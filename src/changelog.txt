@@ -1,0 +1,107 @@
+jPokéBot - CHANGELOG
+
+0.7.8 [13/11/2016]
+- Fixed settings reset.
+- Removed scan range value "10" from settings.
+- Changed folders organization (This version isn't retro compatible).
+- Minor changes in check update frame.
+
+0.7.7 [12/11/2016]
+- Bot working again.
+- Updated libraries.
+
+0.7.6 [27/09/2016]
+- Fixed scroll position in "Inventory".
+- Fixed displayed text when a Pokémon encounter fails.
+- Fixed a Pokémon transferring bug with "Perfect Moves" options selected.
+- Fixed a Pokémon transfer bug when trying to transfer similar Pokémon.
+- Changed player info displayed from Pokédex to Stardust.
+
+0.7.5 [25/09/2016]
+- Implemented auto update function.
+
+0.7.4 [24/09/2016]
+- Added "Get level reward" option.
+
+0.7.3 [19/09/2016]
+- Added number of candies in Pokébank.
+
+0.7.2 [18/09/2016]
+- Added rename by best moves.
+- Fixed a bug when catching a Pokémon without Pokéball.
+
+v0.7.1 [17/09/2016]
+- Added "Pokémon Rename" option.
+- Fixed default recycle kit option.
+- Fixed AsyncPokemonGoException at login.
+- Fixed old nickname displayed.
+- Fixed an item recycle bug.
+
+v0.6.6 [16/09/2016]
+- Added Pokémon & Items images.
+
+v0.6.5 [15/09/2016]
+- Fixed items and Pokémon names.
+
+v0.6.4 [14/09/2016]
+- Fixed some Pokémon transfer bugs.
+- Fixed movement speed option.
+- Fixed errors in setting files.
+- Fixed auto update Inventory and Pokébank.
+- Minor GUI fixes (Windows OS).
+
+v0.6.2 [13/09/2016]
+- Fixed Pokémon transfer options.
+- Fixed login frame freezed.
+- Added movement speed in "Pokéstop Loot" options.
+
+v0.6 [12/09/2016]
+- Added "Pokémon Transfer" function.
+- Added "Pokémon Transfer" options.
+- Fixed scan range setting.
+- Minor Bot fixes.
+
+v0.5.2 [11/09/2016]
+- Added "Pokéstop Loot" options.
+- Added "Pokémon Catch" options.
+- Fixed auto update item recycle option.
+- Minor settings fixes.
+- Minor GUI fixes.
+
+v0.5 [10/09/2016]
+- Added "Pokémon Catch" function.
+- Fixed a bug in items recycling settings.
+- Added auto update user info.
+- Fixed refresh buttons.
+- Minor GUI fixes.
+
+v0.4 [08/09/2016]
+- Added "Item Recycle" options.
+- Removed unneeded library (reduced JAR size).
+- Minor GUI fixes.
+
+v0.3.1 [07/09/2016]
+- Improved main frame GUI.
+- Changed Bot generated texts.
+- Fixed refresh button in Pokébank.
+
+v0.3 [05/09/2016]
+- Added "Pokéstop Loot" function.
+- Added map scan range.
+- Added more coordinates in the login screen.
+- Minor GUI fixes.
+
+v0.2 [03/09/2016]
+- Added function "Player info".
+- Added "Latitude" and "Longitude" input.
+- Added save login data option.
+- Added default coordinates [Sidney].
+- Added sorting option in "Pokébank" by Pokémon's CP, IV, number and name.
+- Checked login data to prevent exceptions.
+- Bug and GUI fixes.
+
+v0.1 [02/09/2016]
+- First release.
+- Added login panel.
+- Added function "Inventory".
+- Added function "Pokébank".

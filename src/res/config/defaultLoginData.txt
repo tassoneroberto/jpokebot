@@ -1,0 +1,8 @@
+jPokéBot - LOGIN DATA
+
+email=
+password=
+latitude=
+longitude=
+scanRange=
+saveLoginData=true

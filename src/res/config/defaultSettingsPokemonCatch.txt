@@ -1,0 +1,12 @@
+jPokéBot - POKESTOP
+
+active=true
+timeOutCatch=3
+useBerry=true
+useMasterballOnLegendary=true
+pokeballToUse=smart
+defaultPokeball=Pokéball
+limitBerryUsed=false
+maxBerryUsed=0
+limitPokeballUsed=false
+maxPokeballUsed=0
