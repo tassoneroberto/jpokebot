@@ -5,7 +5,7 @@
 ## Introduction
 :robot: Pokémon GO bot written in Java.
 
-:exclamation: This project is not working with lastest Niantic API versions! :exclamation:
+:exclamation: This project is not working with latest Niantic API versions! :exclamation:
 
 N.B.
 This project uses the following APIs: https://github.com/Grover-c13/PokeGOAPI-Java
@@ -28,7 +28,7 @@ Run ```Bot.java``` class.
 
 ## Note
 This is an old project decompiled from a JAR file (Yes, I lost original .java files!), so some classes are broken or even missed.
-Also, when this bot was created (august 2016), you just needed a Pokemon GO account to login and start botting.
+Also, when this bot was created (August 2016), you just needed a Pokemon GO account to login and start botting.
 After a while people lost in interest in the Pokemon GO game.
 Consequently the developers of the API used by bots and maps stopped to maintain the project updated.
 This lead to a difficulty in cracking Niantic game protection.
