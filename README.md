@@ -16,7 +16,7 @@ Clone:
 git clone https://github.com/tassoneroberto/jpokebot.git
 ```
 
-Add ```PokeGOAPI-library-x.y.z.jar``` file as a project dependency. Lastest versions (0.4.1) is deprecated.
+Add ```PokeGOAPI-library-x.y.z.jar``` file as a project dependency. Latest versions (0.4.1) is deprecated.
 
 Build maven:
 ```
